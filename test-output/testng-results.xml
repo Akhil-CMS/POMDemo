@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
@@ -20,6 +21,21 @@
           </reporter-output>
         </test-method> <!-- clickCheckOut -->
       </class> <!-- testScripts.PlaceOrderTest -->
+=======
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-11T18:01:48 IST" name="Default suite" finished-at="2023-05-11T18:02:02 IST" duration-ms="14516">
+    <groups>
+    </groups>
+    <test started-at="2023-05-11T18:01:48 IST" name="Default test" finished-at="2023-05-11T18:02:02 IST" duration-ms="14516">
+      <class name="TestScripts.RemoteDriverTest">
+        <test-method signature="test()[pri:0, instance:TestScripts.RemoteDriverTest@485966cc]" started-at="2023-05-11T18:01:48 IST" name="test" finished-at="2023-05-11T18:02:02 IST" duration-ms="14462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- TestScripts.RemoteDriverTest -->
+>>>>>>> branch 'master' of https://github.com/Akhil-CMS/TestngSamples.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

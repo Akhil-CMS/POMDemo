@@ -3,12 +3,20 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="testScripts.PlaceOrderTest">
         <methods>
           <include name="setup"/>
           <include name="clickCheckOut"/>
         </methods>
       </class> <!-- testScripts.PlaceOrderTest -->
+=======
+      <class name="TestScripts.RemoteDriverTest">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- TestScripts.RemoteDriverTest -->
+>>>>>>> branch 'master' of https://github.com/Akhil-CMS/TestngSamples.git
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

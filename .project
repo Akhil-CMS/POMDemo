@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>POMDemo</name>
+=======
+	<name>TestngSamples</name>
+>>>>>>> branch 'master' of https://github.com/Akhil-CMS/TestngSamples.git
 	<comment></comment>
 	<projects>
 	</projects>
